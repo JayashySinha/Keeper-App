@@ -1,3 +1,3 @@
-# Keeper-App
+Keeper-App
 Notes for daily use.
-This Project uses ReactJS for finishing the project.
+This Project only uses ReactJS for giving a sustainable platform to you for keeping notes and delete them when you want.
